@@ -1,6 +1,11 @@
 # Инструкция для запуска приложения
 
-### Проверить установленный Maven
+#### Клонирование репозитория
+```shell
+git clone https://github.com/fedor13F/java1.git
+```
+
+#### Проверить установленный Maven
 
 ```shell
 mvn --version

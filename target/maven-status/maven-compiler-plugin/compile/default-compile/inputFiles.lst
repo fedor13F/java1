@@ -1,0 +1,8 @@
+/Users/fedor/Desktop/aop-transport-project/src/main/java/com/transport/Main.java
+/Users/fedor/Desktop/aop-transport-project/src/main/java/com/transport/model/Express.java
+/Users/fedor/Desktop/aop-transport-project/src/main/java/com/transport/model/Train.java
+/Users/fedor/Desktop/aop-transport-project/src/main/java/com/transport/service/TransportService.java
+/Users/fedor/Desktop/aop-transport-project/src/main/java/com/transport/model/Vehicle.java
+/Users/fedor/Desktop/aop-transport-project/src/main/java/com/transport/exception/InvalidInputException.java
+/Users/fedor/Desktop/aop-transport-project/src/main/java/com/transport/model/Transport.java
+/Users/fedor/Desktop/aop-transport-project/src/main/java/com/transport/aspect/LoggingAspect.java

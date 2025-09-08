@@ -13,7 +13,7 @@ mvn --version
 
 #### Если не установлен:
 
-#### Ubuntu/Debian:
+#### Linux:
 
 ```shell
 sudo apt install maven
